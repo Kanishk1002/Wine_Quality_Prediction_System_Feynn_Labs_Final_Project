@@ -42,13 +42,8 @@ KNIME is a great tool (GUI) that can be used for this.
 7- Decision Tree learner Node output to input Decision Tree Node input
 8- Decision Tree output to input ROC Node.. (here you can evaluate your model base on AUC value)
 
-# Inspiration
-Use machine learning to determine which physiochemical properties make a wine 'good'!
 
-# Acknowledgements
-This dataset is also available from the UCI machine learning repository, https://archive.ics.uci.edu/ml/datasets/wine+quality , I just shared it to kaggle for convenience. (I am mistaken and the public license type disallowed me from doing so, I will take this down at first request. I am not the owner of this dataset.
 
-Please include this citation if you plan to use this database: P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
 
-# Relevant publication
-P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
+
+
